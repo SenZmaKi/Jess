@@ -113,3 +113,6 @@ def main() -> None:
         sys.exit(1)
     paper_path = sys.argv[1]
     run_prompt(Path(paper_path))
+
+if __name__ == "__main__":
+    main()
