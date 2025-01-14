@@ -1,0 +1,9 @@
+# python >= 3.12.7
+requests==2.32.3
+bs4==0.0.2 
+python-dotenv==1.0.1
+pdf2image==1.17.0
+pillow==11.1.0
+markdown==3.7
+openai==1.59.7
+pdfkit==1.0.0 # https://objects.githubusercontent.com/github-production-release-asset-2e65be/131323182/d9b7fa80-ab83-11ea-8ea0-d8fcdf811371?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250112%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250112T080634Z&X-Amz-Expires=300&X-Amz-Signature=9fa57e89e84d04fb856a040f3b8759d888aed431b69fd10906380aa86459d5f7&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dwkhtmltox-0.12.6-1.msvc2015-win64.exe&response-content-type=application%2Foctet-stream
